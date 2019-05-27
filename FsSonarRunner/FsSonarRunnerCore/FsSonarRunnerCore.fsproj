@@ -91,13 +91,11 @@
     </Reference>
     <Reference Include="FSharp.Compiler.Service.ProjectCracker" />
     <Reference Include="FSharp.Core">
-      <HintPath>..\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.dll</HintPath>
+      <HintPath>..\packages\FSharp.Core.4.6.2\lib\net45\FSharp.Core.dll</HintPath>
     </Reference>
     <Reference Include="FSharp.Data">
-      <HintPath>..\packages\FSharp.Data.3.0.1\lib\net45\FSharp.Data.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\FSharp.Data.3.1.1\lib\net45\FSharp.Data.dll</HintPath>
     </Reference>
-    <Reference Include="FSharp.Data" />
     <Reference Include="FSharpLint.Core">
       <HintPath>..\packages\FSharpLint.Core.0.9.0\lib\net45\FSharpLint.Core.dll</HintPath>
     </Reference>
