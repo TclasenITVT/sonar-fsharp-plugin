@@ -6,6 +6,7 @@ open System.Text
 open System.IO
 open System.Xml
 open System.Xml.Linq
+open FSharp.Compiler.Range
 
 type SonarResoureMetrics(path : string) =  
     member val ResourcePath : string = path with get
